@@ -80,6 +80,7 @@ public class Calculadora {
                         res = Math.pow(n1, n1);
                         break;
                     case "%":
+                        //cambis realitzats
                         while (n2 == 0) {
                             do {
                                 System.err.println(" Al denominador hi ha un zero \n"
